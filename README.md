@@ -1,0 +1,2 @@
+# awesome_leetcode_cpp
+这是一个记录我在leetcode中美好时光的仓库，它将展现我每道做过的题思路和解答
